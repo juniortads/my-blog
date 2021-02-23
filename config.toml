@@ -1,7 +1,7 @@
 baseurl = "http://www.example.com"
 title = "my blog"
 
-theme = "coder-portfolio"
+theme = "hugo-coder-portfolio"
 
 DefaultContentLanguage = "en"
 
