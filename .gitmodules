@@ -1,0 +1,3 @@
+[submodule "themes/coder-portfolio"]
+	path = themes/coder-portfolio
+	url = https://github.com/juniortads/hugo-coder-portfolio.git
