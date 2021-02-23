@@ -1,10 +1,8 @@
 # DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
-ignoreErrors = ["error-remote-getjson"]
-
 # Override these settings with your own
-title = "codex"
+title = "@juniortads"
 languageCode = "en-us"
 baseURL = "https://example.org/"
 copyright = "© {year}"
