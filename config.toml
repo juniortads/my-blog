@@ -1,12 +1,9 @@
 baseurl = "https://joeljunior.me"
 title = "my blog"
-
 theme = "coder-portfolio"
-
 DefaultContentLanguage = "en"
-
 paginate = 20
-
+googleAnalytics = "G-JKS5WJ631X"
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
