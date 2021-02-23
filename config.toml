@@ -1,17 +1,16 @@
-# DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "@juniortads"
+title = "my blog"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://joeljunior.me/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-googleAnalytics = "G-JKS5WJ631-X" 
+googleAnalytics = "G-JKS5WJ631X" 
 
 # Optional params
 [params]
