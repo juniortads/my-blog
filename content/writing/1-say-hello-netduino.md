@@ -1,6 +1,6 @@
 +++
 date = "2016-05-15"
-title = "Say “Hello” to Netduino 3"
+title = "Say “Hello” to Netduino 3 [en-US]"
 math = "true"
 
 +++
