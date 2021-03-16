@@ -13,7 +13,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Joel Júnior"
-    description = "Yusuke Ishimi's personal website"
+    description = "Lover of good cooking, coffee and fascinated by distributed systems and how they break"
     keywords = "blog,developer,personal"
     info = "Principal Software Engineer"
     avatarurl = "images/avatar.jpg"
@@ -70,7 +70,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.params]
             author = "Joel Júnior"
             info = "Principal Software Engineer"
-            description = "Joel Júnior's personal website"
+            description = "Lover of good cooking, coffee and fascinated by distributed systems and how they break."
             keywords = "blog,developer,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
