@@ -84,8 +84,3 @@ disqusShortname = "yourdiscussshortname"
                 name = "Writing"
                 weight = 2.0
                 url = "writing"
-
-            [[languages.en.menu.main]]
-                name = "Projects"
-                weight = 3
-                url = "projects"

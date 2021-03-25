@@ -5,7 +5,7 @@ description = "about"
 +++
 
 ---------------------------
-I am a software engineer currently working at iti, Itau Unibanco. Lover of good cooking, coffee and fascinated by distributed systems and how they break.  
+Software engineer, lover of good cooking, coffee and fascinated by distributed systems and how they break.  
 
 ---------------------------
 
