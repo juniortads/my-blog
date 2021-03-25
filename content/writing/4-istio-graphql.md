@@ -3,7 +3,7 @@ date = "2019-01-15"
 title = "Istio Service Mesh + Apollo Server for GraphQL [en-US]"
 +++
 
-A Match made in heaven.
+`A Match made in heaven.`
 
 New architectural patterns new problems to be thought of and solved. That’s for sure when you work with system architecture and not different with microservices architecture adoption. I don’t want to make you give up for sure :) Overall there are more advantages than problems.
 Basically, you need think on D+0 in traffic monitoring, access control, discovery, security, resilience.

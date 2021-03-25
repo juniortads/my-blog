@@ -5,6 +5,8 @@ math = "true"
 
 +++
 
+**Artigo publicado pela primeira vez no [blog da GFT](https://blog.gft.com/br/2017/02/24/ecossistema-elasticsearch-ajudando-usuarios-e-desenvolvedores-a-pesquisar-e-analisar-os-seus-dados/)**
+
 Ajudando usuários e desenvolvedores a pesquisar e analisar os seus dados.
 
 ![elastic](/images/elastic-1.png)
@@ -27,7 +29,3 @@ Segundo uma pesquisa da Akamai, a satisfação dos usuários cai 16% para cada s
 ![elastic](/images/elastic-2.png)
 
 Por essas e outras, o Elasticsearch ajuda a satisfazer as necessidades de pesquisa de ambos os usuários regulares e, por meio da API Elasticsearch, desenvolvedores de aplicativos também. Isso torna a sua implementação fácil pois além dos ganhos com performance e praticidade o desenvolvimento é produtivo e adota-lo seria como ter o seu próprio Google privado.
-
-[Postado 24 fevereiro de 2017 por Joel Júnior no blog da GFT](https://blog.gft.com/br/2017/02/24/ecossistema-elasticsearch-ajudando-usuarios-e-desenvolvedores-a-pesquisar-e-analisar-os-seus-dados/)
-
-Happy coding!
