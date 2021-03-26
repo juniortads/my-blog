@@ -1,7 +1,7 @@
 +++
-date = "2019-05-08"
 title = "Appearances [pt-BR]"
-math = "true"
+slug = "appearances"
+description = "appearances"
 +++
 
 [`Webinar iti & Zup`](https://www.youtube.com/watch?v=maVarWMEVgk&t=1s)
