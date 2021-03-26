@@ -5,7 +5,7 @@ description = "about"
 +++
 
 ---------------------------
-Software engineer, lover of good cooking, coffee and fascinated by distributed systems and how they break.  
+Software engineer, lover of good cooking, beer, coffee and fascinated by distributed systems and how they break.  
 
 ---------------------------
 
