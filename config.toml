@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Joel Júnior"
     description = "Lover of good cooking, coffee and fascinated by distributed systems and how they break"
     keywords = "blog,developer,personal"
-    info = "Principal Software Engineer"
+    info = "Staff Software Engineer"
     avatarurl = "images/avatar.jpg"
 
     hideCredits = true
