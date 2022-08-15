@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Joel Júnior"
     description = "Lover of good cooking, coffee and fascinated by distributed systems and how they break"
     keywords = "blog,developer,personal"
-    info = "Engineering Stuff"
+    info = "Workaround Engineer"
     avatarurl = "images/avatar.jpg"
 
     hideCredits = true
@@ -58,7 +58,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = "https://www.linkedin.com/in/joel-j%C3%BAnior-94577252/"
+    url = "https://www.linkedin.com/in/joeljuniorr/"
 
 [languages]
     [languages.en]
