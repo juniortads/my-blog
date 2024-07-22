@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Joel Júnior"
     description = "Lover of good cooking, coffee and fascinated by distributed systems and how they break"
     keywords = "blog,developer,personal"
-    info = "Minimalist, strategist, coder"
+    info = "Minimalist, strategist, engineer"
     avatarurl = "images/avatar.jpg"
 
     hideCredits = true
@@ -64,7 +64,7 @@ disqusShortname = "yourdiscussshortname"
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Joel Júnior"
-            info = "Minimalist, strategist, coder"
+            info = "Minimalist, strategist, engineer"
             description = "Lover of good cooking, coffee and fascinated by distributed systems and how they break."
             keywords = "blog,developer,personal"
 
